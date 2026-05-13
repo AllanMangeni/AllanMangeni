@@ -1,9 +1,9 @@
 ## 💫 About Me
 
 - 🔭 Researching programmable payment settlement and the failure modes that survive the migration from legacy webhook rails to synchronous on-chain settlement
-- 🤝 Building open infrastructure for x402 ecosystem — focused on idempotency, cross-border settlement integrity, and low-connectivity edge cases in African mobile money markets
+- 🤝 Building open infrastructure focused on idempotency, cross-border settlement integrity, and low-connectivity edge cases in African mobile money markets
 - ✍️ Top 2 Finance writer on [HackerNoon](https://hackernoon.com/u/allanmangeni) · 4M monthly readers · 2022 Smart Contract Contributor of the Year runner-up
-- 🌍 Based in Nairobi. Ecosystem builder across East and West Africa developer communities
+- 🌍 Based in Nairobi. Ecosystem builder across Africa
 
 ---
 
