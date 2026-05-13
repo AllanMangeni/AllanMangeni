@@ -75,7 +75,7 @@ Current research focus: the failure modes that survive the migration from webhoo
 ## Community & Events
 
 **[W3Node 2026 — Africa's Premier Web3 Hackathon](https://www.notion.so/w3node/W3NODE-2026-Impact-Report-299aff476b508173b8a3c6efea0e71da)**
-- Participated in Africa's leading Web3 developer conference and hackathon, Cape Town, January 2026
+- Organized Africa's leading Web3 developer hackathon, Cape Town, January 2026
 - Tracks covered payments & stablecoins, identity, decentralised AI, and gaming
 - Full outcomes documented in the [W3Node 2026 Impact Report](https://www.notion.so/w3node/W3NODE-2026-Impact-Report-299aff476b508173b8a3c6efea0e71da)
 
