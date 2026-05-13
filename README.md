@@ -48,14 +48,6 @@
 **[🏦 Lenderp2p](https://github.com/AllanMangeni/lenderp2p)**
 - P2P lending platform abstracting key financial data between lender and borrower
 - On-chain loan origination with transparent risk disclosure
-
-### 🔧 Developer Tools & Community
-
-**[✍️ avoid-ai-writing](https://github.com/AllanMangeni/avoid-ai-writing)**
-- Agent skill that audits and rewrites content to remove AI writing patterns
-- Compatible with Claude Code, OpenCode, and Hermes — use directly in your coding agent
-- Ships with heuristics for rhythm, sentence structure, and voice authenticity
-
 ---
 
 ## 📝 Writing
