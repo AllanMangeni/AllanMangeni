@@ -4,7 +4,7 @@ Nairobi-based infrastructure consultant and technical writer. My work sits at th
 
 Current research focus: the failure modes that survive the migration from webhook-based payment rails to synchronous on-chain settlement using the x402 protocol — specifically idempotency under network failure, cross-border settlement integrity, and the recovery architecture required when a facilitator times out before the chain confirms.
 
-Top 2 Finance writer on [HackerNoon](https://hackernoon.com/u/allanmangeni) · ~4M monthly readers · 2022 Smart Contract Contributor of the Year runner-up · Algorand Foundation grant recipient · Ecosystem builder across East and West Africa developer communities
+#2 top-published researcher on [HackerNoon](https://hackernoon.com/u/allanmangeni) with a focus on fintech, developer tools, and digital payment infrastructure · ~4M monthly readers · 2022 Smart Contract Contributor of the Year runner-up · Algorand Foundation grant recipient · Ecosystem builder across East and West Africa developer communities
 
 ---
 
@@ -52,25 +52,33 @@ Top 2 Finance writer on [HackerNoon](https://hackernoon.com/u/allanmangeni) · ~
 
 ### Developer Tools
 
-**[avoid-ai-writing](https://github.com/AllanMangeni/avoid-ai-writing)**
-- Agent skill that audits and rewrites content to remove AI writing patterns
-- Compatible with Claude Code, OpenCode, and Hermes
-- Ships with heuristics for rhythm, sentence structure, and voice authenticity
+**[Sapio Studio Kit](https://github.com/sapio-lang/sapio-studio)**
+- Frontend tooling for visualizing and exploring Bitcoin smart contract trees built with Sapio
+- Supports interactive contract graph exploration connected to a live Bitcoin node
+- Built on TypeScript with Electron and React; licensed under MPL-2.0
 
 ---
 
 ## Writing
 
-Top 2 Finance writer on HackerNoon. All pieces are grounded in implementation work.
+#2 top-published researcher on HackerNoon with a focus on fintech, developer tools, and digital payment infrastructure. All pieces are grounded in implementation work.
 
 **Programmatic Payments Series**
 
 | Article | What it covers |
 |---|---|
-| [From Webhooks to x402](https://hackernoon.com/from-webhooks-to-x402-the-architectural-migration-equipping-autonomous-software-agents-for-the-agentic-economy) | The architectural case for dropping webhook-based payment rails and the complexity cost of legacy integrations |
-| [Stress-Testing x402 on Emerging Market Infrastructure](https://hackernoon.com/the-architectural-migration-equipping-autonomous-software-agents) | Synchronous on-chain settlement under real low-connectivity conditions — latency data from Toxiproxy simulations |
-| [The Idempotency Problem in African Cross-Border Settlement](https://hackernoon.com/u/allanmangeni) | Facilitator timeouts, the three-outcome ambiguity problem, and a recovery state machine for exactly-once delivery |
-| [The Application Layer Is the Only Layer You Control](https://hackernoon.com/u/allanmangeni) | Why middleware, not the protocol, is where African deployment constraints get solved |
+| [Stress-Testing x402 Protocol: The Reality of Web3 in Emerging Markets](https://hackernoon.com/stress-testing-x402-protocol-the-reality-of-web3-in-emerging-markets) | Synchronous on-chain settlement under real low-connectivity conditions — latency data from Toxiproxy simulations |
+| [The Architectural Migration: Equipping Autonomous Software with Programmable Money](https://hackernoon.com/the-architectural-migration-equipping-autonomous-software-with-programmable-money) | The infrastructure gap between legacy bank APIs and autonomous agent payment rails — and what the migration costs |
+| [From Webhooks to x402: A Practical Migration Guide for Developers](https://hackernoon.com/from-webhooks-to-x402-a-practical-migration-guide-for-developers) | Step-by-step migration from a Lithic webhook integration to synchronous x402 programmable settlement on Base |
+
+---
+
+## Community & Events
+
+**[W3Node 2026 — Africa's Premier Web3 Hackathon](https://www.notion.so/w3node/W3NODE-2026-Impact-Report-299aff476b508173b8a3c6efea0e71da)**
+- Participated in Africa's leading Web3 developer conference and hackathon, Cape Town, January 2026
+- Tracks covered payments & stablecoins, identity, decentralised AI, and gaming
+- Full outcomes documented in the [W3Node 2026 Impact Report](https://www.notion.so/w3node/W3NODE-2026-Impact-Report-299aff476b508173b8a3c6efea0e71da)
 
 ---
 
@@ -79,12 +87,6 @@ Top 2 Finance writer on HackerNoon. All pieces are grounded in implementation wo
 | Stats | Streak | Top Languages |
 |---|---|---|
 | ![](https://github-readme-stats.vercel.app/api?username=AllanMangeni&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=AllanMangeni&theme=vue-dark&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs?username=AllanMangeni&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
-
----
-
-## Top Contributed Repos
-
-![](https://github-contributor-stats.vercel.app/api?username=AllanMangeni&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
